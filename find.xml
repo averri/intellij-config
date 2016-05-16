@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\java\dev\ericsson\work\ebsm-flow\file-output-adapter'" />
+    <option name="defaultScopeName" value="Directory 'C:\java\dev\ericsson\work\ebsm-flow\file-output-adapter'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\java\dev\ericsson\work\ebsm-flow\file-output-adapter'" />
+  </component>
+</application>

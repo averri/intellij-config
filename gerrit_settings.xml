@@ -1,0 +1,3 @@
+<application>
+  <component name="GerritSettings" Login="ealverr" Host="https://gerrit.ericsson.se" ListAllChanges="false" AutomaticRefresh="false" RefreshTimeout="0" ReviewNotifications="true" PushToGerrit="true" ShowChangeNumberColumn="true" ShowChangeIdColumn="true" />
+</application>
