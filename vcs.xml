@@ -42,6 +42,10 @@
           <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.mediation.esn/esn-testware" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://averri@gerrit.ericsson.se:29418/AIA/mediation/mediation.streamterminator" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\java\dev\ericsson\work" />
