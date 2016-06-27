@@ -54,6 +54,10 @@
           <option name="url" value="https://gitlab.com/averri/aquare.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mfalzetta/femade-ocbrj.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\development\sources\personal\maven" />
