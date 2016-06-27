@@ -1,0 +1,154 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://gitlab.com" />
+    <option name="token" value="NDtcJyzqMzyt1TKzoXF-" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/apache-php.git" />
+          <option name="name" value="apache-php" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/apache-php.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/aquare.io.git" />
+          <option name="name" value="aquare.io" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/aquare.io.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/backup-mysql.git" />
+          <option name="name" value="backup-mysql" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/backup-mysql.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/codex-db.git" />
+          <option name="name" value="codex-db" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/codex-db.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/docker-java.git" />
+          <option name="name" value="docker-java" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/docker-java.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/docker-tomcat.git" />
+          <option name="name" value="docker-tomcat" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/docker-tomcat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/fdi.git" />
+          <option name="name" value="fdi" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/fdi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/giacoop.git" />
+          <option name="name" value="giacoop" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/giacoop.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/giacoop-reports.git" />
+          <option name="name" value="giacoop-reports" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/giacoop-reports.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/git-cheat.git" />
+          <option name="name" value="git-cheat" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/git-cheat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/git-learning.git" />
+          <option name="name" value="git-learning" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/git-learning.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/inscricoes-aqui.git" />
+          <option name="name" value="inscricoes-aqui" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/inscricoes-aqui.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/kakfa-learning.git" />
+          <option name="name" value="kakfa-learning" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/kakfa-learning.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/malvim.git" />
+          <option name="name" value="malvim" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/malvim.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/malvim-db.git" />
+          <option name="name" value="malvim-db" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/malvim-db.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/malvim-jee.git" />
+          <option name="name" value="malvim-jee" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/malvim-jee.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/malvim-reports.git" />
+          <option name="name" value="malvim-reports" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/malvim-reports.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/ocb-manager.git" />
+          <option name="name" value="ocb-manager" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/ocb-manager.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/sdfi.git" />
+          <option name="name" value="sdfi" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/sdfi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/ti-femade.git" />
+          <option name="name" value="ti-femade" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/ti-femade.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/ti-femade-reports.git" />
+          <option name="name" value="ti-femade-reports" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/ti-femade-reports.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/tradetomic.git" />
+          <option name="name" value="tradetomic" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/tradetomic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/upsale.git" />
+          <option name="name" value="upsale" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/upsale.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/mfalzetta/femade-ocbrj.git" />
+          <option name="name" value="femade-ocbrj" />
+          <option name="namespace" value="mfalzetta" />
+          <option name="sshUrl" value="git@gitlab.com:mfalzetta/femade-ocbrj.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
