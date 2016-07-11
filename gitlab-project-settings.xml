@@ -5,6 +5,12 @@
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/apache-aquare.git" />
+          <option name="name" value="apache-aquare" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/apache-aquare.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://gitlab.com/averri/apache-php.git" />
           <option name="name" value="apache-php" />
           <option name="namespace" value="averri" />
@@ -21,6 +27,12 @@
           <option name="name" value="backup-mysql" />
           <option name="namespace" value="averri" />
           <option name="sshUrl" value="git@gitlab.com:averri/backup-mysql.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/bash-cheat.git" />
+          <option name="name" value="bash-cheat" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/bash-cheat.git" />
         </ProjectDto>
         <ProjectDto>
           <option name="httpUrl" value="https://gitlab.com/averri/codex-db.git" />
@@ -113,6 +125,12 @@
           <option name="sshUrl" value="git@gitlab.com:averri/ocb-manager.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/ocb-services.git" />
+          <option name="name" value="ocb-services" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/ocb-services.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://gitlab.com/averri/sdfi.git" />
           <option name="name" value="sdfi" />
           <option name="namespace" value="averri" />
@@ -143,10 +161,10 @@
           <option name="sshUrl" value="git@gitlab.com:averri/upsale.git" />
         </ProjectDto>
         <ProjectDto>
-          <option name="httpUrl" value="https://gitlab.com/mfalzetta/femade-ocbrj.git" />
-          <option name="name" value="femade-ocbrj" />
+          <option name="httpUrl" value="https://gitlab.com/mfalzetta/ocbweb.git" />
+          <option name="name" value="ocbweb" />
           <option name="namespace" value="mfalzetta" />
-          <option name="sshUrl" value="git@gitlab.com:mfalzetta/femade-ocbrj.git" />
+          <option name="sshUrl" value="git@gitlab.com:mfalzetta/ocbweb.git" />
         </ProjectDto>
       </list>
     </option>

@@ -82,8 +82,12 @@
           <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/AIA/common/flowframework/flowframework.eps/eps.ext" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/mfalzetta/ocbweb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\source\ericsson\work\esn" />
+    <option name="cloneParentDir" value="C:\dev\source\personal\php" />
   </component>
 </application>
