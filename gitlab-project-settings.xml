@@ -83,6 +83,12 @@
           <option name="sshUrl" value="git@gitlab.com:averri/git-learning.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/averri/gitlab-runner.git" />
+          <option name="name" value="gitlab-runner" />
+          <option name="namespace" value="averri" />
+          <option name="sshUrl" value="git@gitlab.com:averri/gitlab-runner.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://gitlab.com/averri/inscricoes-aqui.git" />
           <option name="name" value="inscricoes-aqui" />
           <option name="namespace" value="averri" />
