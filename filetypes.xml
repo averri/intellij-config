@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="bsh" type="Bash" />
+      <mapping pattern="Dockerfile" type="Docker file" />
       <mapping ext="avsc" type="JSON" />
+      <mapping ext="bsh" type="Bash" />
     </extensionMap>
   </component>
 </application>
