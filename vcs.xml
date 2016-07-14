@@ -118,8 +118,12 @@
           <option name="url" value="https://gitlab.com/averri/malvim-reports.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.mediation/parsers" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\source\personal\maven" />
+    <option name="cloneParentDir" value="C:\dev\source\ericsson\work\esn" />
   </component>
 </application>
