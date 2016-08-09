@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="avsc" type="JSON" />
+      <mapping pattern="zookeeper" type="Bash" />
       <mapping ext="bsh" type="Bash" />
+      <mapping ext="avsc" type="JSON" />
     </extensionMap>
   </component>
 </application>
