@@ -150,8 +150,12 @@
           <option name="url" value="https://gitlab.com/averri/elk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/AIA/com.ericsson.component.aia/integrationpointlibrary" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\source\ericsson\learning" />
+    <option name="cloneParentDir" value="C:\dev\source\ericsson\work\esn" />
   </component>
 </application>
