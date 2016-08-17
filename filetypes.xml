@@ -3,9 +3,7 @@
     <extensionMap>
       <mapping pattern="zookeeper" type="Bash" />
       <mapping ext="bsh" type="Bash" />
-      <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping ext="avsc" type="JSON" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
