@@ -158,6 +158,14 @@
           <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.servicegroupcontainers/esn-forwarder-decoded-def" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.mediation.esn/esn-bus" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.servicegroupcontainers/esn-bus-def" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\source\ericsson\work\esn" />
