@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="zookeeper" type="Bash" />
       <mapping ext="bsh" type="Bash" />
+      <mapping pattern="Dockerfile-consumer" type="Dockerfile" />
       <mapping ext="avsc" type="JSON" />
     </extensionMap>
   </component>
