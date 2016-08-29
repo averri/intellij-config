@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile-consumer" type="Dockerfile" />
       <mapping pattern="Dockerfile-producer" type="Dockerfile" />
       <mapping ext="avsc" type="JSON" />
+      <mapping pattern="subscription_gui_working.json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
