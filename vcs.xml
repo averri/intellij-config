@@ -174,8 +174,12 @@
           <option name="url" value="http://presentation-layer.lmera.ericsson.se/repos/client-sdk/jscore.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.cifwk/ERICtaf_koans" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\dev\source\ericsson\learning" />
+    <option name="cloneParentDir" value="C:\dev\source\ericsson\workshop" />
   </component>
 </application>
