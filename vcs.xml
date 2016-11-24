@@ -186,6 +186,18 @@
           <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.presentation.client.nhm/node-monitor-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.services.pmic/pmic-service-common-module-model" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.services.pmic/pmic-service-common-module-impl" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://ealverr@gerrit.ericsson.se:29418/OSS/com.ericsson.oss.pmic/pmic-integration" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\dev\source\ericsson\work" />
