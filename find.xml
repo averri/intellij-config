@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Test code" />
-    <option name="defaultScopeName" value="Test code" />
+    <option name="customScope" value="Production code" />
+    <option name="defaultScopeName" value="Production code" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Test code" />
+    <option name="SEARCH_SCOPE" value="Production code" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
