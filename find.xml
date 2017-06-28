@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,11 +15,20 @@
       <mask>*.mxml</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.js</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.sh</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*u</mask>
+      <mask>*uti</mask>
+      <mask>*util</mask>
+      <mask>*util.</mask>
+      <mask>*util.j</mask>
+      <mask>*util.js</mask>
     </recentFileMasks>
   </component>
 </application>
