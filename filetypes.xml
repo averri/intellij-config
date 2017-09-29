@@ -8,6 +8,7 @@
       <mapping ext="avsc" type="JSON" />
       <mapping pattern="AccessControl" type="JavaScript" />
       <mapping pattern="subscription_gui_working.json" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-jdk8" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
